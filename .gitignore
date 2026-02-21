@@ -1,0 +1,11 @@
+nbproject/private/
+build/
+dist/
+debug/
+*.o
+*.hex
+*.cof
+*.elf
+
+.DS_Store
+Thumbs.db
